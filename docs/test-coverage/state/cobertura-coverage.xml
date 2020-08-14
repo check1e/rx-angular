@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
-<coverage lines-valid="345" lines-covered="345" line-rate="1" branches-valid="216" branches-covered="216" branch-rate="1" timestamp="1597362550548" complexity="0" version="0.1">
+<coverage lines-valid="345" lines-covered="345" line-rate="1" branches-valid="216" branches-covered="216" branch-rate="1" timestamp="1597365734952" complexity="0" version="0.1">
   <sources>
     <source>/home/runner/work/rx-angular/rx-angular</source>
   </sources>
